@@ -1,0 +1,13 @@
+{
+  "name": "botjessica",
+  "version": "1.0.0",
+  "description": "Uma bot que usa inteligência artificial para interagir com membros no discord, com base em uma história épica que envolve tecnologia e RPG medieval.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node deploy/global"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
